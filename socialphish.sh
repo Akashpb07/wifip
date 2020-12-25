@@ -47,7 +47,7 @@ elif [[ $option == 3 || $option == 03 ]]; then
 server="snapchat"
 start1
 elif [[ $option == 4 || $option == 04 ]]; then
-server="twitter"
+server="create"
 start1
 elif [[ $option == 5 || $option == 05 ]]; then
 server="github"
